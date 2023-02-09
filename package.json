@@ -4,7 +4,7 @@
   "description": "Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.",
   "main": "index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "vitest"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/nagiqq/nuxt3-fetch-api/issues"
   },
-  "homepage": "https://github.com/nagiqq/nuxt3-fetch-api#readme"
+  "homepage": "https://github.com/nagiqq/nuxt3-fetch-api#readme",
+  "devDependencies": {
+    "vitest": "^0.28.4"
+  }
 }
