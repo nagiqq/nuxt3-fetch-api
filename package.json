@@ -25,6 +25,6 @@
   "homepage": "https://github.com/nagiqq/nuxt3-fetch-api#readme",
   "devDependencies": {
     "vitepress": "^1.0.0-alpha.45",
-    "vitest": "^0.28.4",
+    "vitest": "^0.28.4"
   }
 }

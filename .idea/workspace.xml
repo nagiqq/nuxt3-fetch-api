@@ -8,14 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="973a7f96-8147-4f80-b722-66f0c50fd7f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dist/.vitepress/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/.vitepress/dist/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/about/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/about/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/news/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +44,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/stephen/Desktop/久大寰宇/專案/nuxt3-fetch-api/dist",
+    "last_opened_file_path": "C:/Users/HP/OneDrive/nagi2023",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -77,6 +70,9 @@
       <updated>1675932259772</updated>
       <workItem from="1675932261139" duration="8000" />
       <workItem from="1675932273482" duration="1385000" />
+      <workItem from="1676023381936" duration="185000" />
+      <workItem from="1676023582727" duration="9000" />
+      <workItem from="1676023593325" duration="6000" />
     </task>
     <servers />
   </component>
