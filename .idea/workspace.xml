@@ -7,7 +7,7 @@
     <option name="groupLineBookmarks" value="false" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="973a7f96-8147-4f80-b722-66f0c50fd7f4" name="Changes" comment="">
+    <list default="true" id="973a7f96-8147-4f80-b722-66f0c50fd7f4" name="Changes" comment="[ Update ]: vitest.config.js for 全局引用describe">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -35,7 +35,6 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
@@ -44,18 +43,19 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/HP/OneDrive/nagi2023",
+    "last_opened_file_path": "C:/Users/HP/OneDrive/nagi2023/fetch02/dist/.vitepress",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.3\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\OneDrive\nagi2023\fetch02\dist\.vitepress" />
       <recent name="$PROJECT_DIR$/dist" />
       <recent name="$PROJECT_DIR$/dist/new" />
     </key>
@@ -73,10 +73,24 @@
       <workItem from="1676023381936" duration="185000" />
       <workItem from="1676023582727" duration="9000" />
       <workItem from="1676023593325" duration="6000" />
+      <workItem from="1676259199281" duration="507000" />
+      <workItem from="1676268126343" duration="5033000" />
     </task>
+    <task id="LOCAL-00001" summary="[ Update ]: vitest.config.js for 全局引用describe">
+      <created>1676259524620</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676259524620</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[ Update ]: vitest.config.js for 全局引用describe" />
+    <option name="LAST_COMMIT_MESSAGE" value="[ Update ]: vitest.config.js for 全局引用describe" />
   </component>
 </project>
